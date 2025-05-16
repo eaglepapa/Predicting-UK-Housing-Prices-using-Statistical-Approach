@@ -14,13 +14,18 @@
   
 ### Project Overview
 ---
-The main aim of the project was to design a model to predict house prices for Real Estate Agency in UK. The following equation  Y ̂= -2639000 + 21.56X_1+ 165900X_2+ 121800X_3+ 15.24X_5 , was generated for the model. It was found out that, for every square foot increase in house size, sale price increases on average by about £15.24, holding other variables constant. Also for every increase in average area income, sale price increases on average by about £21.56, holding other variables constant. Average area income, house age, number of rooms, and size of the house, has statistical significant relationship with the house price.
+The main aim of the project was to design a model to predict house prices for Real Estate Agency in UK. The following equation;
 
-![modell errors](https://github.com/user-attachments/assets/aefaea74-14fc-49b9-902d-2ad02c0302b1)
+**Ŷ = -2,639,000 + 21.56X₁ + 165,900X₂ + 121,800X₃ + 15.24X₅**  
+
+was generated for the model. It was discovered that, for every square foot increase in house size, sale price increases on average by about £15.24, holding other variables constant. Also for every increase in average area income, sale price increases on average by about £21.56, holding other variables constant. Average area income, house age, number of rooms, and size of the house, had statistical significant relationship with the house price.
+
+
+![model  summary](https://github.com/user-attachments/assets/dda882c3-1727-42be-a9f3-f0adbc233d0c)
+
 
 ### Data Sources
-Housing Data: The dataset used in this analysis was sourced from Kaggle and contains detailed information about housing with variables such as Avg. Area Income, House Age, Number of Rooms, Number of Bedrooms, SquareFeet, Price, Neighborhood, Country, and capital. 
-[miami-housing-dataset](https://www.kaggle.com/datasets/deepcontractor/miami-housing-dataset)
+UK Housing Data: The dataset was downloaded from Kaggle
 
 ### Tools
 - RStudio – Data cleaning and analysis  
@@ -48,7 +53,8 @@ EDA involved exploring the housing data to answer key questions, such as:
 -	Does average area income, house age, number of rooms, number of bedrooms, and size of the house, affect the house price?
 -	What will be the predicted house price after inputting the values; Avg..Area.Income = £540,000, House.Age = 2 years, Number.of.Rooms = 5 , and SquareFeet = 800000 sq ft, into the adopted linear regression model?
   
-  ![corr](https://github.com/user-attachments/assets/4c50f732-4ea4-489a-8f0c-d9aae7d53005)
+  
+![corr](https://github.com/user-attachments/assets/4798a14a-53e3-4884-9270-1badcaa094d6)
 
   
 ### Data Analysis 
@@ -88,13 +94,15 @@ The analysis results are summarized as follows:
 |4| What will be the predicted house price after inputting the values; Avg..Area.Income = £540,000, House.Age = 2 years, Number.of.Rooms = 5 , and SquareFeet = 800000 sq ft, into the adopted linear regression model?| After inputting the values; Avg..Area.Income = 540000, House.Age = 2, Number.of.Rooms = 5, and SquareFeet = 800000, into the multiple linear regression model, the predicted house price was **$22,135,164**.|
 
 ### Recommendations
-After removing a variable which were not statistically significant,  I recommend adopting this linear equation for the model  **Y ̂= -2639000 + 21.56X_1+ 165900X_2+ 121800X_3+ 15.24X_5**
-Where; X1 = Avg..Area.Income, X2 = House.Age, X3 = Number.of.Rooms, and X5 = SquareFeet
+After excluding variables that were not statistically significant, I recommend adopting the following linear equation for the model:
 
-![rmse1](https://github.com/user-attachments/assets/8e03c3d3-5c7e-4409-83fe-cda328dd19ca)
+**Ŷ = -2,639,000 + 21.56X₁ + 165,900X₂ + 121,800X₃ + 15.24X₅**
+
+Where; X₁ = Avg..Area.Income, X₂ = House.Age, X₃ = Number.of.Rooms, and X₅ = SquareFeet
+
 
 ### Limitations
-The dataset was sourced from Kaggle, and as such, the authenticity and reliability of the data cannot be fully guaranteed. Additionally, Random Forest is considered a black-box model, offering limited interpretability compared to more transparent models like linear regression. This lack of explainability can pose challenges when communicating insights and justifying predictions to stakeholders.
+The dataset was sourced from Kaggle, and as such, the authenticity and reliability of the data cannot be fully guaranteed.
 
 ### References
 	Anon. (2024) What is ethics? | Britannica. [Online] Available from: https://www.britannica.com/question/What-is-ethics. [Accessed 13 Apr 2024].
