@@ -11,6 +11,7 @@
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
 - [References](#references)
+- [Contact](#contact)
   
 ### Project Overview
 ---
