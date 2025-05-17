@@ -106,16 +106,16 @@ Where; X₁ = Avg..Area.Income, X₂ = House.Age, X₃ = Number.of.Rooms, and X�
 The dataset was sourced from Kaggle, and as such, the authenticity and reliability of the data cannot be fully guaranteed.
 
 ### References
-	Anon. (2024) What is ethics? | Britannica. [Online] Available from: https://www.britannica.com/question/What-is-ethics. [Accessed 13 Apr 2024].
-	Anon. (2024) R: What is R?. [Online]. Available from: https://www.r-project.org/about.html. [Accessed 13 April 2024].
-	BEERS, B. (2024) What Is Regression? Definition, Calculation, and Example. [Online] Available from: https://www.investopedia.com/terms/r/regression.asp. [Accessed 12 April 2024].
-	Bhandari, P. (2023) Inferential Statistics | An Easy Introduction & Examples. [Online] Available from: https://www.scribbr.co.uk/stats/inferential-statistics-meaning/. [Accessed 12 April 2024].
-	Biswal, A. (2023) What is Exploratory Data Analysis? Steps and Market Analysis | Simplilearn. [Online] Available from: https://www.simplilearn.com/tutorials/data-analytics-tutorial/exploratory-data-analysis. [Accessed 12 April 2024].
-	Blumenfeld, Z. (2023) Predictive Modeling Techniques: Types, Benefits & Algorithms. [Online] Available from: https://neo4j.com/blog/predictive-modeling-techniques/. [Accessed 13 April 2024].
-	Bose, P. (2023) Exploratory Data Analysis in Python: A Comprehensive Guide. Blogs & Updates on Data Science, Business Analytics, AI Machine Learning [Online]. Available from: https://www.analytixlabs.co.in/blog/exploratory-data-analysis-in-python/. [Accessed 13 April 2024].
-	Cydni. (2015) Informed Consent - Definition, Examples, Cases, Processes. Legal Dictionary. [Online] Available from: https://legaldictionary.net/informed-consent/. [Accessed 13 April 2024].
-	D, V. (2021) Multivariate analysis: an overview. Students 4 Best Evidence. [Online] Available from: https://s4be.cochrane.org/blog/2021/09/09/. [Accessed 13 April 2024].
-	Denis, D. J. (2020) Univariate, Bivariate, and Multivariate Statistics Using R. [Online] Available from: https://ebookcentral.proquest.com/lib/bolton/reader.action?docID=6146792. [Accessed 5 April 2024].
+
+1.	BEERS, B. (2024) What Is Regression? Definition, Calculation, and Example. [Online] Available from: https://www.investopedia.com/terms/r/regression.asp. [Accessed 12 April 2024].
+2.	Bhandari, P. (2023) Inferential Statistics | An Easy Introduction & Examples. [Online] Available from: https://www.scribbr.co.uk/stats/inferential-statistics-meaning/. [Accessed 12 April 2024].
+3.	Biswal, A. (2023) What is Exploratory Data Analysis? Steps and Market Analysis | Simplilearn. [Online] Available from: https://www.simplilearn.com/tutorials/data-analytics-tutorial/exploratory-data-analysis. [Accessed 12 April 2024].
+4.	Blumenfeld, Z. (2023) Predictive Modeling Techniques: Types, Benefits & Algorithms. [Online] Available from: https://neo4j.com/blog/predictive-modeling-techniques/. [Accessed 13 April 2024].
+5.	Bose, P. (2023) Exploratory Data Analysis in Python: A Comprehensive Guide. Blogs & Updates on Data Science, Business Analytics, AI Machine Learning [Online]. Available from: https://www.analytixlabs.co.in/blog/exploratory-data-analysis-in-python/. [Accessed 13 April 2024].
+6.	Cydni. (2015) Informed Consent - Definition, Examples, Cases, Processes. Legal Dictionary. [Online] Available from: https://legaldictionary.net/informed-consent/. [Accessed 13 April 2024].
+7.	D, V. (2021) Multivariate analysis: an overview. Students 4 Best Evidence. [Online] Available from: https://s4be.cochrane.org/blog/2021/09/09/. [Accessed 13 April 2024].
+8.	Denis, D. J. (2020) Univariate, Bivariate, and Multivariate Statistics Using R. [Online] Available from: https://ebookcentral.proquest.com/lib/bolton/reader.action?docID=6146792. [Accessed 5 April 2024].
+
 
 ## Contact
 Feel free to reach out!  
