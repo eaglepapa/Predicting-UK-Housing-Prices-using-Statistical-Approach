@@ -48,7 +48,7 @@ In the initial data preparation please, I performed the following tasks:
 
    
 ### Exploratory Data Analysis
-EDA involved exploring the housing data to answer key business questions, such as: 
+EDA involved exploring the UK housing data to answer key business questions, such as: 
 -	Does the size of a house affect the price of the house?
 -	Does the average area income of the city affect the house price?
 -	Does average area income, house age, number of rooms, number of bedrooms, and size of the house, affect the house price?
