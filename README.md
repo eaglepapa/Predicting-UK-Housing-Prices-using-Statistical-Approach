@@ -117,7 +117,7 @@ The dataset was sourced from Kaggle, and as such, the authenticity and reliabili
 	D, V. (2021) Multivariate analysis: an overview. Students 4 Best Evidence. [Online] Available from: https://s4be.cochrane.org/blog/2021/09/09/. [Accessed 13 April 2024].
 	Denis, D. J. (2020) Univariate, Bivariate, and Multivariate Statistics Using R. [Online] Available from: https://ebookcentral.proquest.com/lib/bolton/reader.action?docID=6146792. [Accessed 5 April 2024].
 
-## 📬 Contact
+## Contact
 Feel free to reach out!  
 📧 Email: [oduroprince08@gmail.com](mailto:oduroprince08@gmail.com) &nbsp;|&nbsp; 🔗 LinkedIn: [linkedin.com/in/oduroprince24](https://linkedin.com/in/oduroprince24)
 
